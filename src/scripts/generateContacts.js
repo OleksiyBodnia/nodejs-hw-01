@@ -15,4 +15,4 @@ const generateContacts = async (number) => {
     }
 };
 
-await generateContacts(3);
+await generateContacts(5);
